@@ -15,10 +15,4 @@ This project showcases multiple Valorant agents with smooth transitions, autopla
 	•	CSS3 (Flexbox, Animations, Keyframes) for styling
 	•	Vanilla JavaScript for carousel logic & autoplay
 
-📸 Preview
 
-(Add a screenshot or GIF of your project here once deployed)
-
-🌐 Live Demo
-
-👉 Demo Link (Add GitHub Pages / Vercel / Netlify link here)
